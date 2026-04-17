@@ -8,6 +8,6 @@ I write on [Substack](https://adelaidadiazroa.substack.com) about building in pu
 
 I built [AI Brain Starter](https://github.com/adelaidasofia/ai-brain-starter), an open-source operating system for Claude Code that turns it into a persistent collaborator with memory, accountability, knowledge graphs, and pattern recognition. One install, every session compounds.
 
-I also consult on AI implementation for founders and ops teams who want their tools to compound over time. [Reach out](mailto:tech@onde-event.com).
+I also consult on AI implementation for founders and ops teams who want their tools to compound over time. [Reach out](mailto:adelaida@diazroa.com).
 
 Based between Bogotá and New York.
