@@ -1,13 +1,13 @@
 # Hi, I'm Adelaida
 
-Co-founder of [Onde](https://www.planwithonde.com). We build event planning infrastructure for LatAm corporates who run too many events to manage manually.
+For founders running a company and a life.
 
-Onde is my seventh company. Before it: Villy Customs, Pawliday Inn, Ruffit, Nomo Fomo, Syzygy/Claim Deck, Robin House. Two exits. I raised my first round on Shark Tank with Mark Cuban and Barbara Corcoran at 18. Success Magazine 30 Under 30.
+I build AI operating systems that hold both: one vault where business, team, and personal live together without leaking into each other. Decisions get sharper because they're informed by the whole picture. Team work flows where it should. Personal stays personal.
 
-I write on [Substack](https://adelaidadiazroa.substack.com) about building in public, AI workflows, and the things nobody tells you about starting a company.
+Open-source core: [ai-brain-starter](https://github.com/adelaidasofia/ai-brain-starter). I built it for myself first.
 
-I built [AI Brain Starter](https://github.com/adelaidasofia/ai-brain-starter), an open-source operating system for Claude Code that turns it into a persistent collaborator with memory, accountability, knowledge graphs, and pattern recognition. One install, every session compounds.
+Co-founder of [Onde](https://www.planwithonde.com), the event-planning infrastructure for LatAm corporates. Seventh company. Two exits.
 
-I also consult on AI implementation for founders and ops teams who want their tools to compound over time. [Reach out](mailto:adelaida@diazroa.com).
+I write on [Substack](https://adelaidadiazroa.substack.com) about AI workflows that compound, founder operations, and the long game.
 
-Based between Bogotá and New York.
+Bogotá and New York. [diazroa.com](https://diazroa.com) for the team install. Free 20-minute diagnostic if you want to see if it fits.
