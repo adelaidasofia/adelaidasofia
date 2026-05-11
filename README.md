@@ -19,8 +19,22 @@ Sales + writing + events — [apollo-mcp](https://github.com/adelaidasofia/apoll
 
 Documents + signal + graphs — [parse-mcp](https://github.com/adelaidasofia/parse-mcp) · [rescuetime-mcp](https://github.com/adelaidasofia/rescuetime-mcp) · [graph-query-mcp](https://github.com/adelaidasofia/graph-query-mcp) · [graph-autotagger-mcp](https://github.com/adelaidasofia/graph-autotagger-mcp)
 
-Co-founder of [Onde](https://www.planwithonde.com), the event-planning infrastructure for LatAm corporates. Seventh company. Two exits.
+## What the public install does not include
 
-I write on [Substack](https://adelaidadiazroa.substack.com) about AI workflows that compound, founder operations, and the long game.
+The repos above give you the wiring. What founders pay for at [diazroa.com](https://diazroa.com) is everything around the wiring:
 
-Bogotá and New York. [diazroa.com](https://diazroa.com) for the team install. Free 20-minute diagnostic if you want to see if it fits your team.
+- **The runtime.** Memory across sessions with per-tenant isolation, hash-chain audit, and the orchestration layer the public skills hook into. Private. Hosted.
+- **Per-vertical workflow content.** Legal review packs, fundraise pipelines, board-pack generators, event-ops playbooks. Built for each client, owned by each client.
+- **The team install.** Personal vault + team vault wired together without leaking either way, RBAC, contractor routing, the eight weeks of vault hygiene most founders never get to.
+- **Office hours and decision support.** The systems compound when someone who has run them under load is the one tuning them with you.
+
+Most installs of the public stack stall in week three on the same five problems. The team install starts where those stalls happen.
+
+## Where to go from here
+
+- Read the [ai-brain-starter](https://github.com/adelaidasofia/ai-brain-starter) README and install it yourself if you want to learn by doing.
+- Book a free 20-minute diagnostic at [diazroa.com](https://diazroa.com) if you want to see if the team install fits your shape.
+- Co-founder of [Onde](https://www.planwithonde.com), the event-planning infrastructure for LatAm corporates. Seventh company. Two exits.
+- I write on [Substack](https://adelaidadiazroa.substack.com) about AI workflows that compound, founder operations, and the long game.
+
+Bogotá and New York.
