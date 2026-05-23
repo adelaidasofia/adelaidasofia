@@ -1,5 +1,18 @@
 # Hi, I'm Adelaida
 
+
+<!-- mycelium-badges:start -->
+
+<p>
+  <a href="https://github.com/adelaidasofia/adelaidasofia/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/adelaidasofia/adelaidasofia?color=blue"></a>
+  <a href="https://github.com/adelaidasofia/adelaidasofia/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/adelaidasofia/adelaidasofia?color=eab308"></a>
+  <a href="https://github.com/adelaidasofia/adelaidasofia/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/adelaidasofia/adelaidasofia"></a>
+  <a href="https://github.com/adelaidasofia/adelaidasofia/issues"><img alt="Open issues" src="https://img.shields.io/github/issues/adelaidasofia/adelaidasofia"></a>
+  <a href="https://myceliumai.co"><img alt="Built by Mycelium AI" src="https://img.shields.io/badge/built_by-Mycelium_AI-15B89A"></a>
+</p>
+
+<!-- mycelium-badges:end -->
+
 For founders running a company and a life.
 
 I build AI operating systems that hold both: one vault where business, team, and personal live together without leaking into each other. Decisions get sharper because they're informed by the whole picture. Team work flows where it should. Personal stays personal.
