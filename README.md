@@ -17,7 +17,7 @@ For founders running a company and a life.
 
 I build AI operating systems that hold both: one vault where business, team, and personal live together without leaking into each other. Decisions get sharper because they're informed by the whole picture. Team work flows where it should. Personal stays personal.
 
-Open-source core: [ai-brain-starter](https://github.com/adelaidasofia/ai-brain-starter). I built it for myself first.
+Open-source core: [ai-brain-starter](https://github.com/mycelium-hq/ai-brain-starter). I built it for myself first.
 
 The plugin family that grew out of using it daily, all open-source:
 
@@ -45,7 +45,7 @@ Most installs of the public stack stall in week three on the same five problems.
 
 ## Where to go from here
 
-- Read the [ai-brain-starter](https://github.com/adelaidasofia/ai-brain-starter) README and install it yourself if you want to learn by doing.
+- Read the [ai-brain-starter](https://github.com/mycelium-hq/ai-brain-starter) README and install it yourself if you want to learn by doing.
 - Book a free 20-minute diagnostic at [diazroa.com](https://diazroa.com) if you want to see if the team install fits your shape.
 - Co-founder of [Onde](https://www.planwithonde.com), the event-planning infrastructure for LatAm corporates. Seventh company. Two exits.
 - I write on [Substack](https://adelaidadiazroa.substack.com) about AI workflows that compound, founder operations, and the long game.
